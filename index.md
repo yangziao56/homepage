@@ -5,12 +5,12 @@ layout: homepage
 ## About Me
 
 I am a undergraduate student at Sun Yat-sen University (SYSU), advised by Prof. Qing Ling. Currently, I join Cognitive Computing and Natural Language Center at IDEA Research as a research intern, supervised by Dr. Jiaxing Zhang.
-My research focuses on computer vision and natural language proceccing, especially in spatiotemporal predictive learning, meta-learning, text classification.
+My research focuses on computer vision and natural language processing, especially in spatiotemporal predictive learning, meta-learning, text classification.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** video prediction
+- **Nature Language Processing:** meta-learning, text classification
 
 ## News
 
