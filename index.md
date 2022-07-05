@@ -14,10 +14,10 @@ My research focuses on computer vision and natural language processing, especial
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jun. 2022]** The Fengshen framework is officially open source, which helps you easily pre train and fine tune the foundation models of the "Fengshenbang".
+- **[May. 2022]** GTS factory uses AI to automate the production of AI models, which are now open for public testing.
+- **[Sept. 2022]** Under my leadership, IDEA-CCNL plans to open source the first large foundation model for extreme weather forecasting.
+- **[Mar. 2022]** I join IDEA-CCNL as a Research Intern.
 
 ## Publications
 
