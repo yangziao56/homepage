@@ -27,7 +27,7 @@ My research focuses on computer vision and natural language processing, especial
   <br>
   submitted to Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+  [[PDF](https://arxiv.org/pdf/2112.01085v2.pdf)] 
 
 - **TCTN: A 3D-Temporal Convolutional Transformer Network for Spatiotemporal Predictive Learning**
   <br>
@@ -35,17 +35,9 @@ My research focuses on computer vision and natural language processing, especial
   <br>
   33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
   <br>
-  [[PDF](https://arxiv.org/pdf/2112.01085v2.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
+  [[PDF](https://arxiv.org/pdf/2112.01085v1.pdf)] [[Code](https://github.com/yangziao56/TCTN-pytorch)]
 
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
 
-## Services
+## Awards
 
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+- The national level of the “College student innovation competition of Sun Yat-Sen University” (**Top1**).
