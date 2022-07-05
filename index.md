@@ -9,7 +9,7 @@ My research focuses on computer vision and natural language processing, especial
 
 ## Research Interests
 
-- **Computer Vision:** video prediction
+- **Computer Vision:** video prediction, precipitation nowcasting
 - **Nature Language Processing:** meta-learning, text classification
 
 ## News
