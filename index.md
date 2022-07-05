@@ -43,3 +43,7 @@ My research focuses on computer vision and natural language processing, especial
 ## Awards
 
 - The national level of the “College student innovation competition of Sun Yat-Sen University” (**Top1**).
+
+
+## Personal
+- I used to be an athlete in the field of swimming and won the title of **national first-class athlete**. I'm also interested in fitness.
