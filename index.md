@@ -19,7 +19,7 @@ My research focuses on computer vision and natural language processing, especial
 - **[May. 2022]** Under my leadership, IDEA-CCNL plans to open source the **first large foundation model for extreme weather forecasting** in "[Fengshenbang](https://github.com/IDEA-CCNL/Fengshenbang-LM)".
 - **[Apr. 2022]** The official implementation of TCTN received **50 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
 - **[Mar. 2022]** I join [IDEA-CCNL](https://idea.edu.cn/en/ccnl.html) as a research intern.
-- **[Sep. 2020]** I join Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group as a research assistant.
+- **[Sep. 2020]** I join Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group in SYSU as a research assistant.
 
 ## Papers
 
