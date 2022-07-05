@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a undergraduate student at [Sun Yat-Sen University(https://www.sysu.edu.cn/sysuen/)] (SYSU), advised by Prof. [Qing Ling(http://home.ustc.edu.cn/~qingling/)]. Currently, I join Cognitive Computing and Natural Language Center at IDEA Research as a research intern, supervised by Dr. Jiaxing Zhang.
+I am a undergraduate student at [Sun Yat-Sen University(https://www.sysu.edu.cn/sysuen/)] (SYSU)[[PDF](https://arxiv.org/pdf/2112.01085v1.pdf)], advised by Prof. [Qing Ling(http://home.ustc.edu.cn/~qingling/)]. Currently, I join [Cognitive Computing and Natural Language Center(https://idea.edu.cn/en/ccnl.html)] at [IDEA Research(https://idea.edu.cn/en/about-idea.html)] as a research intern, supervised by Dr. Jiaxing Zhang.
 My research focuses on computer vision and natural language processing, especially in spatiotemporal predictive learning, meta-learning, text classification.
 
 ## Research Interests
