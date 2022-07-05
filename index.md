@@ -47,3 +47,4 @@ My research focuses on computer vision and natural language processing, especial
 
 ## Personal
 - I used to be an athlete in the field of swimming and won the title of **national first-class athlete**. I'm also interested in fitness.
+- I am interested in blockchain, especially in distributed computing, decentralized finance and decentralized autonomous organization.
