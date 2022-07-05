@@ -17,6 +17,7 @@ My research focuses on computer vision and natural language processing, especial
 - **[Jun. 2022]** The Fengshen framework is officially open source, which helps you easily pre train and fine tune the foundation models of the "Fengshenbang".
 - **[May. 2022]** GTS factory uses AI to automate the production of AI models, which are now open for public testing.
 - **[May. 2022]** Under my leadership, IDEA-CCNL plans to open source the **first** large foundation model for extreme weather forecasting.
+- **[Apr. 2022]** The official implementation of TCTN received 50 stars in github.
 - **[Mar. 2022]** I join IDEA-CCNL as a Research Intern.
 
 ## Publications
