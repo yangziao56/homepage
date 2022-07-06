@@ -6,7 +6,7 @@ layout: homepage
 
 I am an undergraduate student at [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU) majoring in computer science. Currently, I join [Cognitive Computing and Natural Language Center](https://idea.edu.cn/en/ccnl.html) at [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (IDEA Research) as a research intern, supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group at SYSU, coadvised by Dr. Qifeng Lin and Prof. Qing Ling.
 
-You can learn more details about me through my [CV](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf).
+You can learn more details about me through my [CV](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Jul. 2022).
 
 
 ## Research Interests
