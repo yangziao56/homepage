@@ -45,7 +45,7 @@ You can learn more details about me and my research through my [CV](https://gith
 
 ## Awards
 
-- The national level of the “College student innovation competition of Sun Yat-Sen University” (**Top1**).
+- [The national level of the “College student innovation competition of Sun Yat-Sen University”](https://cse.sysu.edu.cn/sites/sdcs.live1.dpcms8.sysu.edu.cn/files/download/upload/zhong_shan_da_xue_ji_suan_ji_xue_yuan_2021nian_da_xue_sheng_chuang_xin_chuang_ye_xun_lian_ji_hua_xiang_mu_jie_ti_da_bian_ping_shen_jie_guo_gong_shi_.pdf) (**Top1**).
 
 
 ## Personal
