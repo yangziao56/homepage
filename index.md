@@ -9,7 +9,7 @@ I am an undergraduate student at [Sun Yat-Sen University](https://www.sysu.edu.c
 
 ## Research Interests
 
-- **Computer Vision:** video prediction, precipitation nowcasting
+- **Computer Vision:** video prediction, precipitation nowcasting, spatiotemporal predictive learning
 - **Nature Language Processing:** text classification
 - **Meta-Learning** 
 
