@@ -30,7 +30,7 @@ You can learn more details about me and my research through my [CV](https://gith
   <br>
   **Ziao Yang**, Xiangrui Yang, Qifeng Lin
   <br>
-  submitted to Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
+  Submitted to Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**.
   <br>
   [[PDF](https://arxiv.org/pdf/2112.01085v2.pdf)] 
 
