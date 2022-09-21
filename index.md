@@ -31,7 +31,8 @@ You can learn more details about me and my research through my [CV](https://gith
   <br>
   **Ziao Yang**, Xiangrui Yang, Qifeng Lin
   <br>
-  This paper was submitted to Thirty-sixth Conference on Neural Information Processing Systems. **NeurIPS 2022**, but the reviewers gave the following ratings: 5, 4, 3, 3, 3. Then, it was submitted to IEEE/CVF Winter Conference on Applications of Computer Vision. **WACV 2023**
+  This paper was submitted to IEEE/CVF Winter Conference on Applications of Computer Vision. **WACV 2023**.
+  Before that it was submitted to Thirty-sixth Conference on Neural Information Processing Systems **NeurIPS 2022**, but the reviewers gave the following ratings: 5, 4, 3, 3, 3. Then we withraw it.
   <br>
   [[PDF](https://arxiv.org/pdf/2112.01085v2.pdf)] 
 
