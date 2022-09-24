@@ -53,5 +53,5 @@ You can learn more details about me and my research through my [CV](https://gith
 
 
 ## Personal
-- I used to be an athlete in the field of swimming and won the title of [national first-class athlete](https://ydydj.univsport.com/index.php?m=index&c=look&a=seach_look&number=&user_name=%E6%9D%A8%E5%AD%90%E6%95%96&dengji=&item=&dict_value=&number2=&number3=). I am also interested in gym.
+- I used to be an athlete in the swimming team of Sun Yat sen University, supevised by [Liuyang Jiao](https://en.wikipedia.org/wiki/Jiao_Liuyang) and [Biaorong Gu](https://www.fina.org/athletes/1017831/biaorong-gu). Besides, I have won the title of [national first-class athlete](https://ydydj.univsport.com/index.php?m=index&c=look&a=seach_look&number=&user_name=%E6%9D%A8%E5%AD%90%E6%95%96&dengji=&item=&dict_value=&number2=&number3=) since I was 15. I am also interested in gym.
 - I am interested in blockchain, especially in distributed computing, decentralized finance and decentralized autonomous organization. I was invited to attend the world blockchain conference 2021 HangZhou.
