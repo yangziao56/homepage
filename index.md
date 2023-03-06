@@ -48,8 +48,8 @@ You can learn more details about my research through my [Academic Curriculum Vit
 
 ## Projects
 
-- **Official Implementation of TCTN** : The first Transformer based spatiotemporal predictive learning net work. (https://github.com/yangziao56/TCTN-pytorch)
-- **Fengshengbang-LM** : (https://github.com/IDEA-CCNL/Fengshenbang-LM)
+- [**Official Implementation of TCTN**](https://github.com/yangziao56/TCTN-pytorch) (Starred 87 in Mar. 2023)
+- [**Fengshengbang-LM**](https://github.com/IDEA-CCNL/Fengshenbang-LM) (Starred 1.6k in Mar. 2023)
 
 ## Awards
 
