@@ -17,7 +17,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 - **Meta-Learning** 
 
 ## News
-
+- **[Feb. 2023]** I will be starting my PhD in Computer Science at [Brandeis University](https://www.brandeis.edu) in Fall 2023. I would like to express my great gratitude to my recommenders: Dr. Jiaxing Zhang, Prof. Huawei Huang and Dr. Qifeng Lin.
 - **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
 - **[Aug. 2022]** We achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
 - **[Jun. 2022]** [The Fengshen framework is officially open source, which helps you easily pre train and fine tune the foundation models of the "Fengshenbang"](https://mp.weixin.qq.com/s/NtaEVMdTxzTJfVr-uQ419Q).
