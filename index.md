@@ -3,8 +3,9 @@ layout: homepage
 ---
 
 ## About Me
+I will move to [Brandeis University](https://www.brandeis.edu) in the coming Fall 2023 to study for a PhD in Computer Science , advised by Prof. [Hongfu Liu](https://hongfuliu.com).  
 
-I received the B.Eng. degree in computer science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://idea.edu.cn/en/about-team/harry_shum.html)), supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group at SYSU, coadvised by Dr. Qifeng Lin and Prof. Qing Ling.
+Before that, I received the B.Eng. degree in computer science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://idea.edu.cn/en/about-team/harry_shum.html)), supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group at SYSU, coadvised by Dr. Qifeng Lin and Prof. Qing Ling.
 
 You can learn more details about my research through my [Academic Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Sep. 2022).
 
