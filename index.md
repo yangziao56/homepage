@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I will be starting my PhD in Computer Science at [Brandeis University](https://www.brandeis.edu) in Fall 2023, advised by Prof. [Hongfu Liu](https://hongfuliu.com).
+I will be starting my PhD in Computer Science at [Brandeis University](https://www.brandeis.edu) in Fall 2023, fortunately advised by Prof. [Hongfu Liu](https://hongfuliu.com).
 
 Before that, I received the B.Eng. degree in computer science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://idea.edu.cn/en/about-team/harry_shum.html)), supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group at SYSU, coadvised by Dr. Qifeng Lin and Prof. Qing Ling.
 
