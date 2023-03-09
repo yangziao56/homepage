@@ -13,15 +13,14 @@ You can learn more details about my research through my [Academic Curriculum Vit
 ## Research Interests
 
 - **Spatiotemporal Data Mining:** Spatiotemporal Predictive Learning, Adversarial Training
-- **Nature Language Processing:** 
+- **Nature Language Processing** 
 - **Meta-Learning** 
 
 ## News
 - **[Feb. 2023]** I will join [Brandeis University](https://www.brandeis.edu) in the coming Fall 2023 to study for a PhD in computer science , advised by Prof. [Hongfu Liu](https://hongfuliu.com). I would like to express my great gratitude to my recommenders: Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html), Prof. [Huawei Huang](http://xintelligence.pro) and Dr. Qifeng Lin.
+- **[May. 2022]** [GTS Qiankunding won the champion of FewCLUE list](https://www.cluebenchmarks.com/fewclue.html).
 - **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
 - **[Aug. 2022]** We achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
-- **[Jun. 2022]** [The Fengshen framework is officially open source, which helps you easily pre train and fine tune the foundation models of the "Fengshenbang"](https://mp.weixin.qq.com/s/NtaEVMdTxzTJfVr-uQ419Q).
-- **[May. 2022]** [GTS factory uses AI to automate the production of AI models, which are now open for public testing](https://mp.weixin.qq.com/s/AFp22hzElkBmJD_VHW0njQ).
 - **[May. 2022]** **Under my leadership**, IDEA-CCNL plans to open source the **first large foundation model for extreme weather forecasting** in "[Fengshenbang](https://github.com/IDEA-CCNL/Fengshenbang-LM)".
 - **[Apr. 2022]** The official implementation of TCTN received **50 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
 - **[Mar. 2022]** I join [IDEA-CCNL](https://idea.edu.cn/en/ccnl.html) as a research intern.
@@ -55,6 +54,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 
 - **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList) (**Top 1%**).
 - The **national level** of the [College student innovation competition of Sun Yat-Sen University](https://cse.sysu.edu.cn/sites/sdcs.live1.dpcms8.sysu.edu.cn/files/download/upload/zhong_shan_da_xue_ji_suan_ji_xue_yuan_2021nian_da_xue_sheng_chuang_xin_chuang_ye_xun_lian_ji_hua_xiang_mu_jie_ti_da_bian_ping_shen_jie_guo_gong_shi_.pdf) (**Top 1**).
+- GTS Qiankunding won the Top 1 of [FewCLUE](https://www.cluebenchmarks.com/fewclue.html).
 
 
 ## Personal
