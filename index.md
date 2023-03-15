@@ -13,7 +13,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 ## Research Interests
 
 - **Spatiotemporal Data Mining:** Spatiotemporal Predictive Learning, Adversarial Training
-- **Nature Language Processing:** Foudation Model, Knowledge Distillation
+- **Nature Language Processing:** Foundation Model, Knowledge Distillation
 - **Meta-Learning** 
 
 ## News
