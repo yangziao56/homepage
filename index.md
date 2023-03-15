@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I will be starting my PhD in Computer Science at [Brandeis University](https://www.brandeis.edu) in Fall 2023, fortunately advised by Prof. [Hongfu Liu](https://hongfuliu.com).
 
-Previously, I obtained the B.Eng. degree in Computer Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://idea.edu.cn/en/about-team/harry_shum.html)), supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in [School of Computer Science, Sun Yat-sen University and Engineering](https://cse.sysu.edu.cn) & [China Meteorological Administrstion](https://www.cma.gov.cn), coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
+Previously, I obtained my B.Eng. degree in Computer Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://idea.edu.cn/en/about-team/harry_shum.html)), supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in [School of Computer Science, Sun Yat-sen University and Engineering](https://cse.sysu.edu.cn) & [China Meteorological Administrstion](https://www.cma.gov.cn), coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
 
 You can learn more details about my research through my [Academic Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Sep. 2022).
 
@@ -13,7 +13,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 ## Research Interests
 
 - **Spatiotemporal Data Mining:** Spatiotemporal Predictive Learning, Adversarial Training
-- **Nature Language Processing** 
+- **Nature Language Processing:** Foudation Model, Knowledge Distillation
 - **Meta-Learning** 
 
 ## News
