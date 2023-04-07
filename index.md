@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 I will be starting my PhD in Computer Science at [Brandeis University](https://www.brandeis.edu) in Fall 2023, fortunately advised by Prof. [Hongfu Liu](https://hongfuliu.com).
 
-Previously, I obtained my B.Eng. degree in Computer Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://idea.edu.cn/en/about-team/harry_shum.html)), supervised by Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html). Before that,  I spent two years worked as a research assistant in [School of Computer Science, Sun Yat-sen University and Engineering](https://cse.sysu.edu.cn) & [China Meteorological Administrstion](https://www.cma.gov.cn), coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
+Previously, I obtained my B.Eng. degree in Computer Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://www.microsoft.com/en-us/research/people/hshum/)), supervised by Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html). Before that,  I spent two years worked as a research assistant in [School of Computer Science, Sun Yat-sen University and Engineering](https://cse.sysu.edu.cn) & [China Meteorological Administrstion](https://www.cma.gov.cn), coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
 
 You can learn more details about my research through my [Academic Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Sep. 2022).
 
@@ -17,7 +17,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 - **Meta-Learning** 
 
 ## News
-- **[Feb. 2023]** I will join [Brandeis University](https://www.brandeis.edu) in the coming Fall 2023 to study for a PhD in computer science , advised by Prof. [Hongfu Liu](https://hongfuliu.com). I would like to express my great gratitude to my recommenders: Dr. [Jiaxing Zhang](https://idea.edu.cn/en/person/zhangjiaxing.html), Prof. [Huawei Huang](http://xintelligence.pro) and Dr. Qifeng Lin.
+- **[Feb. 2023]** I will join [Brandeis University](https://www.brandeis.edu) in the coming Fall 2023 to study for a PhD in computer science , advised by Prof. [Hongfu Liu](https://hongfuliu.com). I would like to express my great gratitude to my recommenders: Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html), Prof. [Huawei Huang](http://xintelligence.pro) and Dr. Qifeng Lin.
 - **[Nov. 2022]** GTS Qiankunding won the champion of [FewCLUE](https://www.cluebenchmarks.com/fewclue.html).
 - **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
 - **[Aug. 2022]** We achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
