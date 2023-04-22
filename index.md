@@ -12,8 +12,9 @@ You can learn more details about my research through my [Academic Curriculum Vit
 
 ## Research Interests
 
-- **Computer Vision:** Spatiotemporal Predictive Learning, Adversarial Training
-- **Nature Language Processing:** Foundation Model, Knowledge Distillation
+- **Spatiotemporal Modeling:** Spatiotemporal Predictive Learning, Precipitation Nowcasting
+- **Trustworthy AI：** Generalization, Robustness
+- **Foundation Models:** Large Language model Training, Large Spatiotemporal Model Training
 - **Meta-Learning** 
 
 ## News
