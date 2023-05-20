@@ -18,6 +18,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 - **Meta-Learning** 
 
 ## News
+- **[Feb. 2023]** I return to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and had a talk about ChatGPT.
 - **[Feb. 2023]** I will join [Brandeis University](https://www.brandeis.edu) in the coming Fall 2023 to study for a PhD in computer science , advised by Prof. [Hongfu Liu](https://hongfuliu.com). I would like to express my great gratitude to my recommenders: Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html), Prof. [Huawei Huang](http://xintelligence.pro) and Dr. Qifeng Lin.
 - **[Nov. 2022]** GTS Qiankunding won the champion of [FewCLUE](https://www.cluebenchmarks.com/fewclue.html).
 - **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
