@@ -17,6 +17,10 @@ You can learn more details about my research through my [Academic Curriculum Vit
 - **Foundation Models:** Large Language model, Large Spatiotemporal Model
 - **Meta-Learning** 
 
+I am fortunate to have the opportunity to conduct video conferences and engage in deep communication with the following top scientists to understand the cutting-edge scientific research progress in various fields:
+
+Dr. Lei Zhang IDEA, Dr. Yuandong Tian Meta, Dr. Wenhai Wang Shanghai AI Lab
+
 ## News
 - **[Apr. 2023]** I return to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and had a talk about ChatGPT.
 - **[Feb. 2023]** I will join [Brandeis University](https://www.brandeis.edu) in the coming Fall 2023 to study for a PhD in computer science , advised by Prof. [Hongfu Liu](https://hongfuliu.com). I would like to express my great gratitude to my recommenders: Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html), Prof. [Huawei Huang](http://xintelligence.pro) and Dr. Qifeng Lin.
