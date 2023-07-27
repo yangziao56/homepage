@@ -68,4 +68,6 @@ Dr. Lei Zhang from IDEA, Dr. Yuandong Tian from Meta, Dr. Wenhai Wang from Shang
 - I am also interested in blockchain and finance.
 
 ## Contact
-[知乎](https://www.zhihu.com/people/qi-dian-5-52-16)｜微信：Youngziao0586
+[知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
+微信：Youngziao0586
+Email: ziaoyang@brandeis.edu
