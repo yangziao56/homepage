@@ -9,7 +9,7 @@ Previously, I obtained my B.Eng. degree in Computer Science from [Sun Yat-Sen Un
 
 You can learn more details about my research through my [Academic Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Sep. 2022).
 
-[知乎](https://www.zhihu.com/people/qi-dian-5-52-16)｜微信:Youngziao0586
+[知乎](https://www.zhihu.com/people/qi-dian-5-52-16)｜微信：Youngziao0586
 
 
 ## Research Interests
