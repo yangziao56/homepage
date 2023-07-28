@@ -17,9 +17,6 @@ You can learn more details about my research through my [Academic Curriculum Vit
 - **Foundation Models:** Large Language model, Large Spatiotemporal Model
 - **Meta-Learning** 
 
-I am fortunate to have the opportunity to conduct video conferences and engage in deep communication with the following top scientists to understand the cutting-edge scientific research progress in various fields:
-
-Dr. Lei Zhang from IDEA, Dr. Yuandong Tian from Meta, Dr. Wenhai Wang from Shanghai AI Lab, Dr. Ce Liu from Microsoft.
 
 ## News
 - **[Apr. 2023]** I return to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and had a talk about ChatGPT.
