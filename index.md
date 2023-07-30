@@ -12,9 +12,9 @@ You can learn more details about my research through my [Academic Curriculum Vit
 
 ## Research Interests
 
-- **Spatiotemporal Modeling:**
-- **Data-centric AI:** 
-- **Foundation Models:**
+- **Spatiotemporal Modeling**
+- **Data-centric AI** 
+- **Foundation Models**
 - **Meta-Learning** 
 
 
