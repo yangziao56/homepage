@@ -5,16 +5,16 @@ layout: homepage
 ## About Me
 I will be starting my PhD in Computer Science at [Brandeis University](https://www.brandeis.edu) in Fall 2023, fortunately advised by Prof. [Hongfu Liu](https://hongfuliu.com).
 
-Previously, I obtained my B.Eng. degree in Computer Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://www.microsoft.com/en-us/research/people/hshum/)), supervised by Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html). Before that,  I spent two years worked as a research assistant in [School of Computer Science, Sun Yat-sen University and Engineering](https://cse.sysu.edu.cn) & [China Meteorological Administrstion](https://www.cma.gov.cn), coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
+Previously, I obtained my B.Eng. degree in Computer Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/) (SYSU). I also worked as a research intern in [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://www.microsoft.com/en-us/research/people/hshum/)), supervised by Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html). Before that,  I spent two years worked as a research assistant in [School of Computer Science and Engineering, Sun Yat-sen University](https://cse.sysu.edu.cn) & [China Meteorological Administrstion](https://www.cma.gov.cn), coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
 
 You can learn more details about my research through my [Academic Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Sep. 2022).
 
 
 ## Research Interests
 
-- **Spatiotemporal Modeling:** Spatiotemporal Predictive Learning, Precipitation Nowcasting
-- **Trustworthy AI:** Generalization, Robustness
-- **Foundation Models:** Large Language model, Large Spatiotemporal Model
+- **Spatiotemporal Modeling:**
+- **Data-centric AI:** 
+- **Foundation Models:**
 - **Meta-Learning** 
 
 
