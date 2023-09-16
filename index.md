@@ -24,10 +24,7 @@ You can learn more details about my research through my [Academic Curriculum Vit
 - **[Nov. 2022]** GTS Qiankunding won the champion of [FewCLUE](https://www.cluebenchmarks.com/fewclue.html).
 - **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
 - **[Aug. 2022]** We achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
-- **[May. 2022]** **Under my leadership**, IDEA-CCNL plans to open source the **first large foundation model for extreme weather forecasting** in "[Fengshenbang](https://github.com/IDEA-CCNL/Fengshenbang-LM)".
 - **[Apr. 2022]** The official implementation of TCTN received **50 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
-- **[Mar. 2022]** I join [IDEA-CCNL](https://idea.edu.cn/en/ccnl.html) as a research intern.
-- **[Sep. 2020]** I join Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/)'s group in SYSU as a research assistant.
 
 ## Papers
 
