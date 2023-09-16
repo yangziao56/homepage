@@ -12,8 +12,8 @@ You can learn more details about my research through my [Academic Curriculum Vit
 
 ## Research Interests
 
-- **Spatiotemporal Modeling**
 - **Data-Centric AI** 
+- **Spatiotemporal Modeling**
 - **Foundation Models**
 - **Meta-Learning** 
 
