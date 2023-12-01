@@ -12,9 +12,9 @@ You can learn more details about my research through my [Curriculum Vitae](https
 
 ## Research Interests
 
-- **Data-Centric AI** 
-- **Spatiotemporal Modeling**
+- **Data-Centric AI**
 - **Foundation Models**
+- **Spatiotemporal Modeling**
 - **Meta-Learning** 
 
 
