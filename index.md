@@ -52,7 +52,6 @@ You can learn more details about my research through my [Curriculum Vitae](https
 
 
 ## Personal
-- I am interested in gym.
 - I am also interested in blockchain and finance.
 
 ## Contact
