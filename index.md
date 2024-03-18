@@ -23,7 +23,7 @@ You can learn more details about my research through my [Curriculum Vitae](https
 - **[Apr. 2023]** I returned to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and gave a talk about ChatGPT.
 - **[Nov. 2022]** My project in IDEA, GTS Qiankunding won the [FewCLUE](https://www.cluebenchmarks.com/fewclue.html) championship .
 - **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
-- **[Aug. 2022]** We achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
+- **[Aug. 2022]** My team achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
 
 ## Papers
 
