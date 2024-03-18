@@ -52,7 +52,7 @@ You can learn more details about my research through my [Curriculum Vitae](https
 
 
 ## Personal
-- I am also interested in blockchain and finance.
+- I am also interested in crypto.
 
 ## Contact
 - [知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
