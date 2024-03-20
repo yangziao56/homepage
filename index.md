@@ -56,5 +56,4 @@ You can learn more details about my research through my [Curriculum Vitae](https
 
 ## Contact
 - [知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
-- 微信：Youngziao0586
 - Email: ziaoyang@brandeis.edu
