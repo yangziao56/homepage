@@ -7,7 +7,7 @@ I am a first year PhD student in Computer Science at Brandeis University, advise
 
 Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen University (SYSU) in 2022. During my undergraduate period I also worked as a research intern at [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://www.microsoft.com/en-us/research/people/hshum/)), supervised by Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html). Before that,  I spent two years working as a research assistant in the School of Computer Science and Engineering, Sun Yat-sen University, coadvised by Dr. Qifeng Lin and Prof. [Qing Ling](http://home.ustc.edu.cn/~qingling/).
 
-You can learn more details about my research through my [Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Nov. 2023).
+<!-- You can learn more details about my research through my [Curriculum Vitae](https://github.com/yangziao56/homepage/raw/main/pdf/Ziao_Yang-CV.pdf) (updated in Nov. 2023).-->
 
 
 ## Research Interests
