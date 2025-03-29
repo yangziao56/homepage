@@ -13,7 +13,7 @@ Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen
 ## Research Interests
 
 - **Data-Centric AI**
-- **Foundation Models**
+- **LLM Knowledge Editing**
 - **Spatiotemporal Modeling**
 - **Meta-Learning** 
 
