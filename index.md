@@ -3,7 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am a second year PhD student in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com).<!-- Before joining Brandeis, I worked at Y Combinator China and crafted strategic presentation and financing materials for Dr. [Qi Lu](https://en.wikipedia.org/wiki/Qi_Lu_(computer_scientist)).
+I am a second year PhD student in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com).
+<!-- 
+Before joining Brandeis, I worked at Y Combinator China and crafted strategic presentation and financing materials for Dr. [Qi Lu](https://en.wikipedia.org/wiki/Qi_Lu_(computer_scientist)).
 
 Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen University (SYSU) in 2022. During my undergraduate period I also worked as a research intern at [International Digital Economy Academy](https://idea.edu.cn/en/about-idea.html) (founded by Dr. [Harry Shum](https://www.microsoft.com/en-us/research/people/hshum/)), supervised by Dr. [Jiaxing Zhang](https://www.idea.edu.cn/research/ccnl.html). 
 
