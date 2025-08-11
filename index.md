@@ -17,7 +17,7 @@ Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen
 - **Spatiotemporal Modeling**
 - **Meta-Learning** 
 
-
+<!--
 ## News
 - **[May. 2023]** I assisted Dr. Qi Lu to craft his presentation ["The new paradigm brought about by Foundation models."](https://www.bilibili.com/video/BV1mM4y147qw/?spm_id_from=333.337.search-card.all.click)
 - **[Apr. 2023]** I returned to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and gave a talk about ChatGPT.
@@ -57,3 +57,4 @@ Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen
 ## Contact
 - [知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
 - Email: ziaoyang@brandeis.edu
+-->
