@@ -17,6 +17,7 @@ During these years, I had the opportunity to intern in industry and greatly enjo
 - **Meta-Learning** 
 
 ## News
+- **[May. 2025]** I joined Adobe as an MLE Intern.
 - **[May. 2023]** I assisted Dr. Qi Lu to craft his presentation ["The new paradigm brought about by Foundation models."](https://www.bilibili.com/video/BV1mM4y147qw/?spm_id_from=333.337.search-card.all.click)
 - **[Apr. 2023]** I returned to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and gave a talk about ChatGPT.
 - **[Nov. 2022]** My project in IDEA, GTS Qiankunding won the [FewCLUE](https://www.cluebenchmarks.com/fewclue.html) championship .
@@ -68,7 +69,7 @@ During these years, I had the opportunity to intern in industry and greatly enjo
 
 
 ## Personal
-- I am also interested in crypto.
+I've always had a strong interest in entrepreneurship, and my future ambition is closely tied to these fields. I'm particularly inspired by how great ideas evolve into impactful products, and I'm continually learning how successful teams build, scale, and bring technologies to market. Before graduate school, I dedicated years to competitive swimming and reached the National Level-1 standard, an experience that shaped my discipline and appreciation for rigorous training. In my free time, skiing in winter and playing tennis year-round are among my favorite activities—I’d be more than happy to connect with others who share these interests!
 
 ## Contact
 - [知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
