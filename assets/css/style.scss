@@ -368,6 +368,10 @@ section h2:first-of-type{
   margin-bottom: 0.35rem;
 }
 
+#papers + ul > li strong{
+  font-weight: 650;
+}
+
 #papers + ul > li a{
   display: inline-flex;
   align-items: center;
