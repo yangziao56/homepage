@@ -3,6 +3,18 @@
 
 @import "minimal-light";
 
+.social-icons a{
+  height: 2.6rem;
+  width: 2.6rem;
+  font-size: 1.3rem;
+  line-height: 2.7rem;
+  margin-right: 0.6rem;
+}
+
+.social-icons a:last-child{
+  margin-right: 0;
+}
+
 .social-icons .cv-icon{
   font-size: 1.1rem;
   font-weight: 700;
