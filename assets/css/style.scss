@@ -187,36 +187,39 @@ header h1{
   letter-spacing: 0.03em;
 }
 
-.site-nav{
-  margin-top: 1.05rem;
+.page-nav{
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.5rem;
+  align-items: center;
+  gap: 0.55rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  padding-bottom: 1.05rem;
+  margin: 0 0 1.55rem;
+  border-bottom: 1px solid var(--border);
+  scrollbar-width: none;
 }
 
-.site-nav a{
+.page-nav::-webkit-scrollbar{
+  display: none;
+}
+
+.page-nav a{
+  white-space: nowrap;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.32rem 0.7rem;
+  padding: 0.3rem 0.7rem;
   border-radius: 999px;
-  border: 1px solid var(--border);
-  background: rgba(255, 255, 255, 0.60);
+  border: 1px solid transparent;
+  background: transparent;
   color: var(--muted);
   font-size: 0.95rem;
-  font-weight: 600;
+  font-weight: 650;
   text-decoration: none;
   transition: transform 160ms ease, background-color 160ms ease, color 160ms ease, border-color 160ms ease;
 }
 
-@media (prefers-color-scheme: dark) {
-  .site-nav a{
-    background: rgba(17, 24, 39, 0.60);
-  }
-}
-
-.site-nav a:hover{
+.page-nav a:hover{
   transform: translateY(-1px);
   background: rgba(37, 99, 235, 0.10);
   border-color: rgba(37, 99, 235, 0.35);
@@ -224,7 +227,7 @@ header h1{
 }
 
 @media (prefers-color-scheme: dark) {
-  .site-nav a:hover{
+  .page-nav a:hover{
     background: rgba(56, 189, 248, 0.12);
     border-color: rgba(56, 189, 248, 0.35);
   }
