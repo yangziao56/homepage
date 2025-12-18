@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a third year PhD student in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen University (SYSU) in 2022. You can find my CV <a href="/pdf/CV.pdf" target="_blank" rel="noopener">here</a>.
+I am a third year PhD student in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen University (SYSU) in 2022. You can find my CV <a href="pdf/CV.pdf" target="_blank" rel="noopener">here</a>.
 
 During these years, I had the opportunity to intern in industry and greatly enjoyed the experience. I worked with Dr. Lei Zhang at Adobe, Dr. Qi Lu at Y Combinator China, and Dr. Jiaxing Zhang at IDEA.
 
