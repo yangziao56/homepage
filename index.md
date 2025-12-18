@@ -25,6 +25,24 @@ During these years, I had the opportunity to intern in industry and greatly enjo
 
 ## Papers
 
+- **Layer-Aware Influence for Online Data Valuation Estimation**
+  <br>
+  **Ziao Yang**, Longbo Huang, Hongfu Liu
+  <br>
+  [[PDF](https://arxiv.org/pdf/2510.16007.pdf)]
+
+- **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
+  <br>
+  **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
+  <br>
+  [[PDF](https://arxiv.org/pdf/2405.17490.pdf)]
+
+- **On the Inflation of kNN-Shapley Value**
+  <br>
+  **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
+  <br>
+  [[PDF](https://arxiv.org/pdf/2405.17489.pdf)]
+
 - **PTCT: Patches with 3D-Temporal Convolutional Transformer Network for Precipitation Nowcasting**
   <br>
   **Ziao Yang**, Xiangrui Yang, Qifeng Lin
