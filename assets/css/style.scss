@@ -187,6 +187,49 @@ header h1{
   letter-spacing: 0.03em;
 }
 
+.site-nav{
+  margin-top: 1.05rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.site-nav a{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.32rem 0.7rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255, 255, 255, 0.60);
+  color: var(--muted);
+  font-size: 0.95rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: transform 160ms ease, background-color 160ms ease, color 160ms ease, border-color 160ms ease;
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-nav a{
+    background: rgba(17, 24, 39, 0.60);
+  }
+}
+
+.site-nav a:hover{
+  transform: translateY(-1px);
+  background: rgba(37, 99, 235, 0.10);
+  border-color: rgba(37, 99, 235, 0.35);
+  color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+  .site-nav a:hover{
+    background: rgba(56, 189, 248, 0.12);
+    border-color: rgba(56, 189, 248, 0.35);
+  }
+}
+
 section{
   padding: 2.2rem 2.2rem 1.6rem;
   background: var(--surface);
