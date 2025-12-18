@@ -210,17 +210,6 @@ section h2{
   scroll-margin-top: 1.5rem;
 }
 
-section h2::after{
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -1px;
-  height: 2px;
-  width: 3rem;
-  border-radius: 999px;
-  background: var(--accent);
-}
-
 section h2:first-of-type{
   margin-top: 0;
 }
