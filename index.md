@@ -30,31 +30,31 @@ During these years, I had the opportunity to intern in industry and greatly enjo
   <br>
   **Ziao Yang**, Longbo Huang, Hongfu Liu
   <br>
-  [[PDF](https://arxiv.org/pdf/2510.16007.pdf)]
+  [PDF](https://arxiv.org/pdf/2510.16007.pdf)
 
 - **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
   <br>
   **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
   <br>
-  [[PDF](https://arxiv.org/pdf/2405.17490.pdf)]
+  [PDF](https://arxiv.org/pdf/2405.17490.pdf)
 
 - **On the Inflation of kNN-Shapley Value**
   <br>
   **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
   <br>
-  [[PDF](https://arxiv.org/pdf/2405.17489.pdf)]
+  [PDF](https://arxiv.org/pdf/2405.17489.pdf)
 
 - **PTCT: Patches with 3D-Temporal Convolutional Transformer Network for Precipitation Nowcasting**
   <br>
   **Ziao Yang**, Xiangrui Yang, Qifeng Lin
   <br>
-  [[PDF](https://arxiv.org/pdf/2112.01085v2.pdf)] 
+  [PDF](https://arxiv.org/pdf/2112.01085v2.pdf) 
 
 - **TCTN: A 3D-Temporal Convolutional Transformer Network for Spatiotemporal Predictive Learning**
   <br>
   **Ziao Yang**, Xiangrui Yang, Qifeng Lin
   <br>
-  [[PDF](https://arxiv.org/pdf/2112.01085v1.pdf)] [[Code](https://github.com/yangziao56/TCTN-pytorch)]
+  [PDF](https://arxiv.org/pdf/2112.01085v1.pdf) [Code](https://github.com/yangziao56/TCTN-pytorch)
 
 ## Projects
 
