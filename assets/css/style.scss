@@ -92,6 +92,7 @@ header, section, footer{
   float: none;
   position: static;
   width: auto;
+  min-width: 0;
 }
 
 header{
@@ -191,6 +192,8 @@ header h1{
   position: sticky;
   top: 1.25rem;
   z-index: 10;
+  min-width: 0;
+  max-width: 100%;
   display: flex;
   align-items: center;
   gap: 0.35rem;
@@ -260,6 +263,7 @@ header h1{
 
 section{
   padding: 2.2rem 2.2rem 1.6rem;
+  overflow-wrap: anywhere;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -449,7 +453,7 @@ p small{
   }
 
   .wrapper{
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
     padding: 1.4rem 1rem;
   }
 
