@@ -30,7 +30,9 @@
 
   const getScrollOffset = () => {
     const style = window.getComputedStyle(nav);
-    if (style.position !== "sticky") return 24;
+    if (style.position !== "sticky") {
+      return Math.min(160, window.innerHeight * 0.2);
+    }
     const top = Number.parseFloat(style.top) || 0;
     return top + nav.offsetHeight + 24;
   };
