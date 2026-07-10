@@ -505,6 +505,8 @@ p small{
 
   header{
     position: static;
+    width: min(100%, 520px);
+    justify-self: center;
     padding: 1.1rem 1rem;
   }
 
