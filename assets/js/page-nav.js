@@ -27,16 +27,23 @@
     const activeLink = idToLink.get(id);
     if (!activeLink) return;
     activeLink.classList.add("is-active");
-    activeLink.setAttribute("aria-current", "true");
+    activeLink.setAttribute("aria-current", "location");
+  };
+
+  const getScrollOffset = () => {
+    const style = window.getComputedStyle(nav);
+    if (style.position !== "sticky") return 24;
+    const top = Number.parseFloat(style.top) || 0;
+    return top + nav.offsetHeight + 24;
   };
 
   const getActiveHeadingId = () => {
-    const offset = 140;
-    const y = window.scrollY + offset;
+    const y = window.scrollY + getScrollOffset();
     let activeId = headings[0].id;
 
     for (const heading of headings) {
-      if (heading.offsetTop <= y) activeId = heading.id;
+      const headingY = heading.getBoundingClientRect().top + window.scrollY;
+      if (headingY <= y) activeId = heading.id;
       else break;
     }
 
@@ -57,4 +64,3 @@
 
   onScroll();
 })();
-
