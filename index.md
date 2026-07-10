@@ -26,11 +26,18 @@ During these years, I had the opportunity to intern in industry and greatly enjo
 
 ## Papers
 
+### 2025
+{: .publication-year}
+
 - **Layer-Aware Influence for Online Data Valuation Estimation**
   <br>
   **Ziao Yang**, Longbo Huang, Hongfu Liu
   <br>
   [PDF](https://arxiv.org/pdf/2510.16007.pdf)
+{: .publication-list}
+
+### 2024
+{: .publication-year}
 
 - **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
   <br>
@@ -43,6 +50,10 @@ During these years, I had the opportunity to intern in industry and greatly enjo
   **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
   <br>
   [PDF](https://arxiv.org/pdf/2405.17489.pdf)
+{: .publication-list}
+
+### 2021
+{: .publication-year}
 
 - **PTCT: Patches with 3D-Temporal Convolutional Transformer Network for Precipitation Nowcasting**
   <br>
@@ -55,6 +66,7 @@ During these years, I had the opportunity to intern in industry and greatly enjo
   **Ziao Yang**, Xiangrui Yang, Qifeng Lin
   <br>
   [PDF](https://arxiv.org/pdf/2112.01085v1.pdf) [Code](https://github.com/yangziao56/TCTN-pytorch)
+{: .publication-list}
 
 ## Projects
 

@@ -1,6 +1,7 @@
 (() => {
   const root = document.documentElement;
   const controls = Array.from(document.querySelectorAll("[data-theme-option]"));
+  const themeColor = document.querySelector('meta[name="theme-color"]');
   const storageKey = "homepage-theme";
   const validModes = new Set(["auto", "light", "dark"]);
   let boundaryTimer = null;
@@ -61,6 +62,12 @@
     const safeMode = validModes.has(mode) ? mode : "auto";
     root.dataset.themeMode = safeMode;
     root.dataset.theme = resolveTheme(safeMode);
+    if (themeColor) {
+      themeColor.setAttribute(
+        "content",
+        root.dataset.theme === "dark" ? "#101214" : "#f4f6f8"
+      );
+    }
     updateControls(safeMode);
     scheduleBoundary(safeMode);
     if (persist) persistMode(safeMode);

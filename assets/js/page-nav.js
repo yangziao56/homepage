@@ -13,9 +13,7 @@
       .filter(Boolean)
   );
 
-  const headings = Array.from(
-    document.querySelectorAll("section h2[id]")
-  ).filter((h) => idToLink.has(h.id));
+  const headings = Array.from(document.querySelectorAll("section h2[id]"));
 
   if (!headings.length) return;
 
@@ -47,7 +45,7 @@
       else break;
     }
 
-    return activeId;
+    return idToLink.has(activeId) ? activeId : "";
   };
 
   let rafId = null;

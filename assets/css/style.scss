@@ -118,7 +118,7 @@ strong{
 .wrapper{
   width: min(1120px, 100%);
   margin: 0 auto;
-  padding: 2.5rem 1.5rem;
+  padding: 2rem 1.5rem 2.5rem;
   display: grid;
   grid-template-columns: clamp(280px, 25vw, 320px) minmax(0, 1fr);
   gap: clamp(1.5rem, 3vw, 2rem);
@@ -136,7 +136,7 @@ footer{
 header{
   align-self: start;
   position: sticky;
-  top: 1.75rem;
+  top: 4.5rem;
   padding: 1.5rem 1.25rem;
   text-align: center;
   background: var(--surface);
@@ -196,7 +196,7 @@ header h1{
 .social-icons{
   display: flex;
   justify-content: center;
-  gap: 0.5rem;
+  gap: 0.65rem;
   flex-wrap: wrap;
 }
 
@@ -206,19 +206,18 @@ header h1{
   justify-content: center;
   width: 2.4rem;
   height: 2.4rem;
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  background: var(--surface-muted);
-  color: var(--heading) !important;
+  border: 0;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--muted) !important;
   font-size: 1.15rem;
   line-height: 1;
   text-decoration: none;
 }
 
 .social-icons a:hover{
-  border-color: var(--accent);
-  background: var(--accent);
-  color: #ffffff !important;
+  background: transparent;
+  color: var(--accent) !important;
 }
 
 .social-icons .cv-icon{
@@ -272,39 +271,45 @@ header h1{
 
 .page-nav{
   position: sticky;
-  top: 1rem;
-  z-index: 10;
+  top: 0;
+  z-index: 20;
+  width: 100%;
   min-width: 0;
-  max-width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0.2rem;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  padding: 0.25rem 0 0.55rem;
-  margin: 0 0 1.65rem;
+  margin: 0;
   border: 0;
   border-bottom: 1px solid var(--border);
   border-radius: 0;
   background: var(--bg);
   box-shadow: none;
-  scrollbar-width: none;
   font-family: var(--font-sans);
 }
 
-.page-nav::-webkit-scrollbar{
+.page-nav-inner{
+  width: min(1120px, 100%);
+  min-width: 0;
+  margin: 0 auto;
+  padding: 0.45rem 1.5rem 0.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.15rem;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.page-nav-inner::-webkit-scrollbar{
   display: none;
 }
 
 .page-nav a{
   flex: 0 0 auto;
-  min-height: 2.25rem;
+  min-height: 2.35rem;
   white-space: nowrap;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 0.4rem 0.45rem 0.3rem;
+  padding: 0.4rem 0.05rem 0.3rem;
   border: 0;
   border-bottom: 2px solid transparent;
   border-radius: 0;
@@ -413,7 +418,30 @@ section h2:first-of-type{
   font-weight: 600;
 }
 
-#papers + ul,
+.publication-year{
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 1.55rem 0 0.35rem;
+  color: var(--accent);
+  font-family: var(--font-sans);
+  font-size: 0.88rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+#papers + .publication-year{
+  margin-top: 0;
+}
+
+.publication-year::after{
+  content: "";
+  height: 1px;
+  flex: 1;
+  background: var(--border);
+}
+
+.publication-list,
 #projects + ul,
 #awards + ul{
   list-style: none;
@@ -422,7 +450,7 @@ section h2:first-of-type{
   border-top: 1px solid var(--border);
 }
 
-#papers + ul > li,
+.publication-list > li,
 #projects + ul > li,
 #awards + ul > li{
   margin: 0;
@@ -433,7 +461,7 @@ section h2:first-of-type{
   background: transparent;
 }
 
-#papers + ul > li > strong:first-child{
+.publication-list > li > strong:first-child{
   display: block;
   margin-bottom: 0.28rem;
   color: var(--heading);
@@ -442,11 +470,11 @@ section h2:first-of-type{
   line-height: 1.35;
 }
 
-#papers + ul > li strong{
+.publication-list > li strong{
   font-weight: 600;
 }
 
-#papers + ul > li a{
+.publication-list > li a{
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -463,7 +491,7 @@ section h2:first-of-type{
   text-decoration: none;
 }
 
-#papers + ul > li a:hover{
+.publication-list > li a:hover{
   border-color: var(--accent);
   background: var(--accent);
   color: #ffffff;
@@ -501,6 +529,16 @@ p small{
     grid-template-columns: minmax(0, 1fr);
     gap: 1rem;
     padding: 1rem 0.875rem 2rem;
+  }
+
+  .page-nav{
+    position: static;
+  }
+
+  .page-nav-inner{
+    justify-content: flex-start;
+    gap: 0.85rem;
+    padding: 0.2rem 0.875rem 0.35rem;
   }
 
   header{
@@ -547,17 +585,10 @@ p small{
     padding: 0 0.15rem 1rem;
   }
 
-  .page-nav{
-    position: static;
-    justify-content: flex-start;
-    padding-top: 0.15rem;
-    margin-bottom: 1.35rem;
-  }
-
   .page-nav a{
     min-height: 2.4rem;
-    padding-right: 0.55rem;
-    padding-left: 0.55rem;
+    padding-right: 0.05rem;
+    padding-left: 0.05rem;
   }
 
   section h2{
@@ -565,7 +596,7 @@ p small{
     scroll-margin-top: 1rem;
   }
 
-  #papers + ul > li,
+  .publication-list > li,
   #projects + ul > li,
   #awards + ul > li{
     padding: 1rem 0;
