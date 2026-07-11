@@ -34,7 +34,9 @@
       return Math.min(160, window.innerHeight * 0.2);
     }
     const top = Number.parseFloat(style.top) || 0;
-    return top + nav.offsetHeight + 24;
+    const headingStyle = window.getComputedStyle(headings[0]);
+    const scrollMargin = Number.parseFloat(headingStyle.scrollMarginTop) || 0;
+    return Math.max(top + nav.offsetHeight + 24, scrollMargin + 1);
   };
 
   const getActiveHeadingId = () => {
