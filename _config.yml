@@ -9,10 +9,9 @@ google_scholar: https://scholar.google.com/citations?user=gFayJVUAAAAJ&hl=zh-CN
 github_link: https://github.com/yangziao56
 linkedin: https://www.linkedin.com/in/ziao-yang-a1a13a223/
 cv: /pdf/CV_Ziao_Yang.pdf
-avatar: ./assets/img/avatar.png
-social_image: /assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
+social_image: /assets/img/avatar.jpg
 favicon: /assets/img/favicon-32.png
 apple_touch_icon: /assets/img/apple-touch-icon.png
 description: Ziao Yang is a PhD candidate in Computer Science at Brandeis University, researching data-centric AI, large language models, spatiotemporal modeling, and meta-learning.
 canonical: https://yangziao56.github.io/homepage/
-remote_theme: yaoyao-liu/minimal-light

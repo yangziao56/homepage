@@ -2,6 +2,7 @@
   const nav = document.querySelector(".page-nav");
   if (!nav) return;
 
+  const inner = nav.querySelector(".page-nav-inner");
   const links = Array.from(nav.querySelectorAll('a[href^="#"]'));
   const idToLink = new Map(
     links
@@ -17,6 +18,9 @@
 
   if (!headings.length) return;
 
+  let suppressSpy = false;
+  let suppressTimer = null;
+
   const setActive = (id) => {
     links.forEach((link) => {
       link.classList.remove("is-active");
@@ -26,6 +30,16 @@
     if (!activeLink) return;
     activeLink.classList.add("is-active");
     activeLink.setAttribute("aria-current", "location");
+    if (inner && inner.scrollWidth > inner.clientWidth) {
+      activeLink.scrollIntoView({ block: "nearest", inline: "nearest" });
+    }
+  };
+
+  const updateOverflowFades = () => {
+    if (!inner) return;
+    const maxScroll = inner.scrollWidth - inner.clientWidth;
+    nav.classList.toggle("can-scroll-left", maxScroll > 1 && inner.scrollLeft > 1);
+    nav.classList.toggle("can-scroll-right", maxScroll > 1 && inner.scrollLeft < maxScroll - 1);
   };
 
   const getScrollOffset = () => {
@@ -52,17 +66,47 @@
     return idToLink.has(activeId) ? activeId : "";
   };
 
+  const releaseSpy = () => {
+    if (suppressTimer !== null) window.clearTimeout(suppressTimer);
+    suppressTimer = null;
+    suppressSpy = false;
+  };
+
+  links.forEach((link) => {
+    link.addEventListener("click", () => {
+      const id = (link.getAttribute("href") || "").slice(1);
+      if (!id) return;
+      suppressSpy = true;
+      setActive(id);
+      if (suppressTimer !== null) window.clearTimeout(suppressTimer);
+      suppressTimer = window.setTimeout(releaseSpy, 1200);
+    });
+  });
+
+  if ("onscrollend" in window) {
+    window.addEventListener("scrollend", () => {
+      if (suppressSpy) releaseSpy();
+    });
+  }
+
   let rafId = null;
   const onScroll = () => {
     if (rafId != null) return;
     rafId = window.requestAnimationFrame(() => {
       rafId = null;
-      setActive(getActiveHeadingId());
+      if (!suppressSpy) setActive(getActiveHeadingId());
     });
   };
 
   window.addEventListener("scroll", onScroll, { passive: true });
-  window.addEventListener("resize", onScroll, { passive: true });
+  window.addEventListener("resize", () => {
+    updateOverflowFades();
+    onScroll();
+  }, { passive: true });
+  if (inner) {
+    inner.addEventListener("scroll", updateOverflowFades, { passive: true });
+  }
 
+  updateOverflowFades();
   onScroll();
 })();

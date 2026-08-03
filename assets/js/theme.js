@@ -1,15 +1,15 @@
 (() => {
   const root = document.documentElement;
   const controls = Array.from(document.querySelectorAll("[data-theme-option]"));
-  const themeColor = document.querySelector('meta[name="theme-color"]');
+  const themeColorMetas = Array.from(document.querySelectorAll('meta[name="theme-color"]'));
   const storageKey = "homepage-theme";
   const validModes = new Set(["auto", "light", "dark"]);
-  let boundaryTimer = null;
+  const systemDark = window.matchMedia("(prefers-color-scheme: dark)");
+  const themeHex = { light: "#f4f6f8", dark: "#101214" };
 
-  const resolveTheme = (mode, date = new Date()) => {
+  const resolveTheme = (mode) => {
     if (mode === "light" || mode === "dark") return mode;
-    const hour = date.getHours();
-    return hour >= 7 && hour < 19 ? "light" : "dark";
+    return systemDark.matches ? "dark" : "light";
   };
 
   const getInitialMode = () => {
@@ -23,22 +23,6 @@
     } catch (error) {}
   };
 
-  const delayUntilNextBoundary = (now = new Date()) => {
-    const next = new Date(now);
-    const hour = now.getHours();
-
-    if (hour < 7) {
-      next.setHours(7, 0, 0, 0);
-    } else if (hour < 19) {
-      next.setHours(19, 0, 0, 0);
-    } else {
-      next.setDate(next.getDate() + 1);
-      next.setHours(7, 0, 0, 0);
-    }
-
-    return Math.max(1000, next.getTime() - now.getTime() + 100);
-  };
-
   const updateControls = (mode) => {
     controls.forEach((control) => {
       control.setAttribute(
@@ -48,28 +32,22 @@
     });
   };
 
-  const scheduleBoundary = (mode) => {
-    if (boundaryTimer !== null) window.clearTimeout(boundaryTimer);
-    boundaryTimer = null;
-    if (mode !== "auto") return;
-
-    boundaryTimer = window.setTimeout(() => {
-      applyMode("auto", false);
-    }, delayUntilNextBoundary());
+  const updateThemeColor = (mode, theme) => {
+    themeColorMetas.forEach((meta) => {
+      meta.setAttribute(
+        "content",
+        mode === "auto" ? meta.dataset.default || themeHex[theme] : themeHex[theme]
+      );
+    });
   };
 
   const applyMode = (mode, persist = true) => {
     const safeMode = validModes.has(mode) ? mode : "auto";
+    const theme = resolveTheme(safeMode);
     root.dataset.themeMode = safeMode;
-    root.dataset.theme = resolveTheme(safeMode);
-    if (themeColor) {
-      themeColor.setAttribute(
-        "content",
-        root.dataset.theme === "dark" ? "#101214" : "#f4f6f8"
-      );
-    }
+    root.dataset.theme = theme;
+    updateThemeColor(safeMode, theme);
     updateControls(safeMode);
-    scheduleBoundary(safeMode);
     if (persist) persistMode(safeMode);
   };
 
@@ -79,11 +57,14 @@
     });
   });
 
-  document.addEventListener("visibilitychange", () => {
-    if (!document.hidden && root.dataset.themeMode === "auto") {
-      applyMode("auto", false);
-    }
-  });
+  const onSystemChange = () => {
+    if (root.dataset.themeMode === "auto") applyMode("auto", false);
+  };
+  if (typeof systemDark.addEventListener === "function") {
+    systemDark.addEventListener("change", onSystemChange);
+  } else if (typeof systemDark.addListener === "function") {
+    systemDark.addListener(onSystemChange);
+  }
 
   window.addEventListener("storage", (event) => {
     if (event.key !== storageKey) return;
@@ -91,4 +72,10 @@
   });
 
   applyMode(getInitialMode(), false);
+
+  window.requestAnimationFrame(() => {
+    window.requestAnimationFrame(() => {
+      root.classList.add("theme-ready");
+    });
+  });
 })();
