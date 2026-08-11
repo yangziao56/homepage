@@ -3,10 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-I am a third year PhD student in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). Previously, I obtained my Bachelor's degree in Computer Science from Sun Yat-Sen University (SYSU) in 2022. You can find my CV <a href="pdf/CV_Ziao_Yang.pdf" target="_blank" rel="noopener">here</a>.
+I am a final-year Ph.D. candidate in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). My research focuses on data-centric AI and large language models. Previously, I received my B.Eng. from Sun Yat-sen University in 2022.
 
-During these years, I had the opportunity to intern in industry and greatly enjoyed the experience. I worked with Dr. Lei Zhang at Adobe, Dr. Qi Lu at Y Combinator China, and Dr. Jiaxing Zhang at IDEA.
+Throughout my research career, I have had the opportunity to intern at several industry and research organizations, and I have greatly enjoyed these experiences. I have worked with Dr. Vlad Morariu at Adobe Research, Dr. Lei Zhang at Adobe, Dr. Qi Lu at Y Combinator China, and Dr. Jiaxing Zhang at IDEA.
 
+I expect to graduate in May 2027 and am currently seeking industry opportunities.
 
 
 ## Research Interests
