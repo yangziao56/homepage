@@ -27,9 +27,6 @@ Throughout my research career, I have had the opportunity to intern at several i
 
 ## Papers
 
-### 2026
-{: .publication-year}
-
 - **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
   <br>
   **Ziao Yang**, Han Yue, Jian Chen, Hongfu Liu
@@ -69,10 +66,6 @@ Throughout my research career, I have had the opportunity to intern at several i
   *arXiv preprint, 2026*
   <br>
   [PDF](https://arxiv.org/pdf/2607.03675.pdf)
-{: .publication-list}
-
-### 2021
-{: .publication-year}
 
 - **PTCT: Patches with 3D-Temporal Convolutional Transformer Network for Precipitation Nowcasting**
   <br>
