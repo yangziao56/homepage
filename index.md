@@ -25,7 +25,7 @@ Throughout my research career, I have had the opportunity to intern at several i
 - **[Aug 2022]** My team placed in the **top 1%** of the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList), with Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
 {: .news-list}
 
-## Papers
+## Publications
 
 - **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
   <br>
