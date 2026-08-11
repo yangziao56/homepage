@@ -512,29 +512,6 @@ section h2:first-of-type{
   color: var(--muted);
 }
 
-.publication-year{
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin: 1.55rem 0 0.6rem;
-  color: var(--accent);
-  font-family: var(--font-sans);
-  font-size: 0.88rem;
-  font-weight: 700;
-  line-height: 1.2;
-}
-
-section h2 + .publication-year{
-  margin-top: 0;
-}
-
-.publication-year::after{
-  content: "";
-  height: 1px;
-  flex: 1;
-  background: var(--border);
-}
-
 .publication-list,
 .projects-list,
 .awards-list,
@@ -804,7 +781,6 @@ p small{
     break-inside: avoid;
   }
 
-  .publication-year::after,
   .news-list > li::before,
   #news + ul > li::before{
     print-color-adjust: exact;
