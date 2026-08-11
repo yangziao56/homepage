@@ -418,6 +418,27 @@ section p{
   max-width: 62ch;
 }
 
+.job-market-note{
+  margin: 0 0 1.35rem;
+  padding: 0.75rem 0.95rem;
+  border-left: 3px solid var(--accent);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background: var(--accent-soft);
+  line-height: 1.55;
+}
+
+.job-market-note strong{
+  color: var(--heading);
+}
+
+.job-market-note a{
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.14em;
+}
+
 section h2{
   margin: 2.35rem 0 1rem;
   padding-bottom: 0.55rem;

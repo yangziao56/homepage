@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-<strong>I expect to graduate in 2027 and am currently on the job market! Feel free to DM me for any opportunities or discussions. You can access my CV <a href="pdf/CV_Ziao_Yang.pdf" target="_blank" rel="noopener">here</a>.</strong>
+<p class="job-market-note"><strong>I expect to graduate in 2027 and am currently on the job market!</strong> Feel free to DM me for any opportunities or discussions. You can access my CV <a href="pdf/CV_Ziao_Yang.pdf" target="_blank" rel="noopener">here</a>.</p>
 
 I am a final-year Ph.D. candidate in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). My research focuses on data-centric AI and large language models. Previously, I received my B.Eng. from Sun Yat-sen University in 2022.
 
