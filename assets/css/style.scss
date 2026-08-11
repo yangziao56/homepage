@@ -221,18 +221,17 @@ header{
 
 header .image.avatar{
   display: block;
-  width: 136px;
+  width: 100%;
+  max-width: 280px;
   margin: 0 auto;
   border-radius: var(--radius);
 }
 
 header .image.avatar img{
   display: block;
-  width: 136px;
-  height: 170px;
+  width: 100%;
+  height: auto;
   padding: 0;
-  object-fit: cover;
-  object-position: center;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   box-shadow: none;
@@ -681,12 +680,8 @@ p small{
   }
 
   header .image.avatar{
-    width: 112px;
-  }
-
-  header .image.avatar img{
-    width: 112px;
-    height: 140px;
+    width: 100%;
+    max-width: 320px;
   }
 
   header h1{
