@@ -11,47 +11,64 @@ Throughout my research career, I have had the opportunity to intern at several i
 
 ## Research Interests
 
-- **Data-Centric AI**
-- **Large Language Model**
-- **Spatiotemporal Modeling**
-- **Meta-Learning**
+- **Large Language Models**
+- **Data-Centric Learning**
+- **Post-Training & Evaluation**
+- **Data Valuation**
 {: .interests-list}
 
 ## News
-- **[May. 2025]** I joined Adobe as an MLE Intern.
-- **[May. 2023]** I assisted Dr. Qi Lu to craft his presentation ["The new paradigm brought about by Foundation models."](https://www.bilibili.com/video/BV1mM4y147qw/?spm_id_from=333.337.search-card.all.click)
-- **[Apr. 2023]** I returned to Chengdu No.7 High School (Prof. Fei-Fei li and Xiaochuan Wang are alumni) and gave a talk about ChatGPT.
-- **[Nov. 2022]** My project in IDEA, GTS Qiankunding won the [FewCLUE](https://www.cluebenchmarks.com/fewclue.html) championship .
-- **[Sep. 2022]** The official implementation of TCTN received **80 stars** in [github](https://github.com/yangziao56/TCTN-pytorch).
-- **[Aug. 2022]** My team achieved **top 1%** in the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList). Thanks to my teammates Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
+- **[May 2026]** I joined Adobe Research as a Research Scientist Intern.
+- **[Mar 2026]** Our paper, ["Revisit, Extend, and Enhance Hessian-Free Influence Functions"](https://openreview.net/forum?id=ijL2681Tau), was published in TMLR.
+- **[May 2025]** I joined Adobe as a Machine Learning Engineer Intern.
+- **[Nov 2022]** Our GTS Qiankunding project at IDEA won the [FewCLUE](https://www.cluebenchmarks.com/fewclue.html) championship.
+- **[Aug 2022]** My team placed in the **top 1%** of the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList), with Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
 {: .news-list}
 
 ## Papers
 
-### 2025
+### 2026
 {: .publication-year}
+
+- **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
+  <br>
+  **Ziao Yang**, Han Yue, Jian Chen, Hongfu Liu
+  <br>
+  *Transactions on Machine Learning Research (TMLR), 2026*
+  <br>
+  [Paper](https://openreview.net/forum?id=ijL2681Tau) [PDF](https://arxiv.org/pdf/2405.17490.pdf)
+
+- **Recontextualizing Famous Quotes for Brand Slogan Generation**
+  <br>
+  **Ziao Yang**, Zizhang Chen, Lei Zhang, Hongfu Liu
+  <br>
+  *Submitted to EMNLP, 2026*
+  <br>
+  [PDF](https://arxiv.org/pdf/2602.06049.pdf)
 
 - **Layer-Aware Influence for Online Data Valuation Estimation**
   <br>
   **Ziao Yang**, Longbo Huang, Hongfu Liu
   <br>
+  *Submitted to TPAMI, 2026*
+  <br>
   [PDF](https://arxiv.org/pdf/2510.16007.pdf)
-{: .publication-list}
 
-### 2024
-{: .publication-year}
-
-- **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
+- **On the Inflation of KNN-Shapley Value**
   <br>
-  **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
+  **Ziao Yang**, Han Yue, Jian Chen, Hongfu Liu
   <br>
-  [PDF](https://arxiv.org/pdf/2405.17490.pdf)
-
-- **On the Inflation of kNN-Shapley Value**
-  <br>
-  **Ziao Yang**, Han Yue, Jiahui Chen, Hongfu Liu
+  *Submitted to DMLR, 2026*
   <br>
   [PDF](https://arxiv.org/pdf/2405.17489.pdf)
+
+- **Validation-Induced Shapley Shifts: How Validation Structure Distorts Data Valuation**
+  <br>
+  Yinan Shen, **Ziao Yang**, Hongfu Liu
+  <br>
+  *arXiv preprint, 2026*
+  <br>
+  [PDF](https://arxiv.org/pdf/2607.03675.pdf)
 {: .publication-list}
 
 ### 2021
@@ -72,20 +89,20 @@ Throughout my research career, I have had the opportunity to intern at several i
 
 ## Projects
 
-- [Official Implementation of TCTN](https://github.com/yangziao56/TCTN-pytorch) (Starred 87 in Mar. 2023)
-- [Fengshengbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) (Starred 1.6k in Mar. 2023)
+- [Official Implementation of TCTN](https://github.com/yangziao56/TCTN-pytorch) (100+ GitHub stars)
+- [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)
 {: .projects-list}
 
 ## Awards
 
-- **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList) (**Top 1%**).
-- The **national level** of the [College student innovation competition of Sun Yat-Sen University](https://cse.sysu.edu.cn/sites/sdcs.live1.dpcms8.sysu.edu.cn/files/download/upload/zhong_shan_da_xue_ji_suan_ji_xue_yuan_2021nian_da_xue_sheng_chuang_xin_chuang_ye_xun_lian_ji_hua_xiang_mu_jie_ti_da_bian_ping_shen_jie_guo_gong_shi_.pdf) (**Top 1**).
-- Champion of [FewCLUE](https://www.cluebenchmarks.com/fewclue.html): GTS Qiankunding (**Top 1 from November 18 till now**).
+- **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList), Top 1%, Alibaba Group (2022).
+- **National College Student Innovation Competition**: [Top 1](https://cse.sysu.edu.cn/sites/sdcs.live1.dpcms8.sysu.edu.cn/files/download/upload/zhong_shan_da_xue_ji_suan_ji_xue_yuan_2021nian_da_xue_sheng_chuang_xin_chuang_ye_xun_lian_ji_hua_xiang_mu_jie_ti_da_bian_ping_shen_jie_guo_gong_shi_.pdf), Sun Yat-sen University (2022).
+- **FewCLUE**: Champion with GTS Qiankunding (2022).
 {: .awards-list}
 
 
 ## Personal
-I've always had a strong interest in entrepreneurship, and my future ambition is closely tied to these fields. I'm particularly inspired by how great ideas evolve into impactful products, and I'm continually learning how successful teams build, scale, and bring technologies to market. Before graduate school, I dedicated years to competitive swimming and reached the National Level-1 standard, an experience that shaped my discipline and appreciation for rigorous training. In my free time, skiing in winter and playing tennis year-round are among my favorite activities—I’d be more than happy to connect with others who share these interests!
+Outside research, I am interested in entrepreneurship and in how technical ideas become useful products. Before graduate school, I trained as a competitive swimmer and reached China's National Level-1 standard; these days, you will usually find me skiing in winter or playing tennis year-round.
 
 ## Contact
 - [知乎](https://www.zhihu.com/people/qi-dian-5-52-16)
