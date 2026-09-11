@@ -82,8 +82,8 @@ Throughout my research career, I have had the opportunity to intern at several i
 
 ## Projects
 
-- [Official Implementation of TCTN](https://github.com/yangziao56/TCTN-pytorch) (100+ GitHub stars)
-- [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)
+- [Official Implementation of TCTN](https://github.com/yangziao56/TCTN-pytorch) (90+ GitHub stars)
+- [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) (4K+ GitHub stars)
 {: .projects-list}
 
 ## Awards
