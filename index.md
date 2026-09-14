@@ -18,6 +18,7 @@ Throughout my research career, I have had the opportunity to intern at several i
 {: .interests-list}
 
 ## News
+- **[Aug 2026]** Our paper, ["Recontextualizing Famous Quotes for Brand Slogan Generation"](https://arxiv.org/pdf/2602.06049.pdf), was accepted to the EMNLP 2026 Main Conference.
 - **[May 2026]** I joined Adobe Research as a Research Scientist Intern.
 - **[Mar 2026]** Our paper, ["Revisit, Extend, and Enhance Hessian-Free Influence Functions"](https://openreview.net/forum?id=ijL2681Tau), was published in TMLR.
 - **[May 2025]** I joined Adobe as a Machine Learning Engineer Intern.
@@ -39,7 +40,7 @@ Throughout my research career, I have had the opportunity to intern at several i
   <br>
   **Ziao Yang**, Zizhang Chen, Lei Zhang, Hongfu Liu
   <br>
-  *Submitted to EMNLP, 2026*
+  *EMNLP 2026 Main Conference*
   <br>
   [PDF](https://arxiv.org/pdf/2602.06049.pdf)
 
