@@ -23,7 +23,7 @@ Throughout my research career, I have had the opportunity to intern at several i
 - **[Mar 2026]** Our paper, ["Revisit, Extend, and Enhance Hessian-Free Influence Functions"](https://openreview.net/forum?id=ijL2681Tau), was published in TMLR.
 - **[May 2025]** I joined Adobe as a Machine Learning Engineer Intern.
 - **[Nov 2022]** Our GTS Qiankunding project at IDEA won the [FewCLUE](https://www.cluebenchmarks.com/fewclue.html) championship.
-- **[Aug 2022]** My team placed in the **top 1%** of the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList), with Jiacheng Wu (CUHK) and Jiahui Hu (NUIST).
+- **[Aug 2022]** Our team placed in the **top 1%** of the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList).
 {: .news-list}
 
 ## Publications
