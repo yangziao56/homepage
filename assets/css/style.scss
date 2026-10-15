@@ -393,7 +393,8 @@ header h1{
   line-height: 1;
 }
 
-.page-nav a.is-active{
+.page-nav a.is-active,
+.page-nav a[aria-current="page"]{
   border-bottom-color: var(--accent);
   color: var(--accent);
   background: transparent;
@@ -787,3 +788,15 @@ p small{
     -webkit-print-color-adjust: exact;
   }
 }
+
+/* Blog shares the homepage palette, typography, and responsive layout. */
+.blog-heading { margin-bottom: 2.5rem; }
+.blog-heading h1 { font-size: clamp(2rem, 5vw, 3rem); line-height: 1.15; }
+.blog-eyebrow { font-family: var(--font-sans); font-size: .75rem; letter-spacing: .14em; color: var(--muted); }
+.blog-meta { font-family: var(--font-sans); font-size: .85rem; color: var(--muted); }
+.blog-entry { border-top: 1px solid var(--border); padding: 1.5rem 0; }
+.blog-entry h2 { margin-top: .5rem; }
+.blog-empty { border-top: 1px solid var(--border); padding-top: 1.5rem; }
+.blog-post { overflow-wrap: anywhere; }
+.blog-post pre { overflow-x: auto; }
+.blog-back { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); }

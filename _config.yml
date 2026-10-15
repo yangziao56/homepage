@@ -15,3 +15,23 @@ favicon: /assets/img/favicon-32.png
 apple_touch_icon: /assets/img/apple-touch-icon.png
 description: Ziao Yang is a PhD candidate in Computer Science at Brandeis University, researching data-centric AI, large language models, spatiotemporal modeling, and meta-learning.
 canonical: https://yangziao56.github.io/homepage/
+
+permalink: /blog/:year/:month/:day/:title/
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+# Local collaboration and recruiting artifacts must never enter the public site.
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
+  - output
+  - tmp
+  - script
+  - README.md
+  - README_de.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - Ziao_Yang_Data_Centric_LLM_Research.pptx

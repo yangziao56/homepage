@@ -1,0 +1,29 @@
+---
+layout: homepage
+title: Blog
+description: Notes on AI, research, products, and the organizations around them.
+permalink: /blog/
+---
+<div class="blog-heading">
+  <p class="blog-eyebrow">NOTES &amp; ESSAYS</p>
+  <h1>Blog</h1>
+  <p>On AI, research, products, and the organizations around them.</p>
+  <p lang="zh-CN">关于 AI、研究、产品与组织的思考和实践。</p>
+</div>
+{% if site.posts.size > 0 %}
+<div class="blog-list">
+  {% for post in site.posts %}
+  <article class="blog-entry">
+    <p class="blog-meta"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.lang %} · {{ post.lang | escape }}{% endif %}</p>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h2>
+    <p>{{ post.description | default: post.excerpt | strip_html | truncate: 220 }}</p>
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+<div class="blog-empty">
+  <h2>Essays are on the way.</h2>
+  <p>New articles and research notes will appear here.</p>
+  <p lang="zh-CN">文章与研究随笔将在这里陆续更新。</p>
+</div>
+{% endif %}

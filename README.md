@@ -139,3 +139,24 @@ Our project uses the source code from the following repositories:
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
 * [orderedlist/minimal](https://github.com/orderedlist/minimal)
+
+
+## Publishing a blog post
+
+The Blog is served at `/homepage/blog/` using the existing homepage layout.
+Add an approved article as `_posts/YYYY-MM-DD-short-title.md`:
+
+```yaml
+---
+title: "Article title"
+date: 2026-10-15 12:00:00 -0400
+lang: en
+description: "A short summary for the article list and link previews."
+---
+```
+
+Write the article in Markdown below the front matter. Use `lang: zh-CN`
+for Chinese articles. The post layout, dated URL, blog listing, and sitemap
+are generated automatically. Keep work in progress in `_drafts/` or set
+`published: false`; only approved posts belong on the public site. Use
+`relative_url` for internal links and images so they work under `/homepage`.

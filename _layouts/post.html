@@ -1,0 +1,13 @@
+---
+layout: homepage
+---
+<article class="blog-post"{% if page.lang %} lang="{{ page.lang | escape }}"{% endif %}>
+  <p><a href="{{ '/blog/' | relative_url }}">← All posts</a></p>
+  <div class="blog-heading">
+    <p class="blog-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+    <h1>{{ page.title | escape }}</h1>
+    {% if page.description %}<p>{{ page.description | escape }}</p>{% endif %}
+  </div>
+  {{ content }}
+  <p class="blog-back"><a href="{{ '/blog/' | relative_url }}">← All posts</a></p>
+</article>
