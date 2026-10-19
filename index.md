@@ -7,7 +7,7 @@ layout: homepage
 
 I am a final-year Ph.D. candidate in Computer Science at Brandeis University, advised by Prof. [Hongfu Liu](https://hongfuliu.com). My research focuses on data-centric AI and large language models. Previously, I received my B.Eng. from Sun Yat-sen University in 2022.
 
-## Research & Industry Experience
+## Industry Experience
 
 <div class="experience-list">
 <article class="experience-item">
