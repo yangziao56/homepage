@@ -555,7 +555,7 @@ section h2:first-of-type{
 
 .publication-list > li em{
   font-family: var(--font-sans);
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   font-style: normal;
   color: var(--muted);
   letter-spacing: 0.01em;
@@ -572,7 +572,7 @@ section h2:first-of-type{
   border-radius: 4px;
   background: transparent;
   font-family: var(--font-sans);
-  font-size: 0.8rem;
+  font-size: 0.875rem;
   font-weight: 600;
   line-height: 1;
 }
@@ -815,12 +815,21 @@ p small{
 .experience-heading > div { min-width: 0; }
 .experience-heading h3 { margin: 0; padding: 0; font-size: 1.2rem; line-height: 1.35; border: 0; }
 .experience-role { margin: 0.3rem 0 0; font-family: var(--font-sans); font-size: 0.88rem; font-weight: 600; line-height: 1.5; color: var(--text); }
-.experience-date { flex-shrink: 0; margin: 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.78rem; line-height: 1.5; white-space: nowrap; font-variant-numeric: tabular-nums; }
-.experience-meta { margin: 0.25rem 0 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.8rem; line-height: 1.55; }
+.experience-date { flex-shrink: 0; margin: 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.875rem; line-height: 1.5; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.experience-meta { margin: 0.25rem 0 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.875rem; line-height: 1.55; }
 @media (max-width: 640px) {
   .experience-item { grid-template-columns: 48px minmax(0, 1fr); gap: 0.8rem; padding: 1rem 0; }
   .experience-logo { width: 48px; height: 48px; }
   .experience-heading { display: block; }
   .experience-date { margin-top: 0.3rem; }
   .experience-heading h3 { font-size: 1.08rem; }
+}
+
+/* Keep the mobile profile card compact so the introduction appears sooner. */
+@media screen and (max-width: 640px) {
+  header { padding: 0.85rem 0.9rem; }
+  header .image.avatar { max-width: 180px; }
+  header h1 { margin-top: 0.6rem; font-size: 1.5rem; }
+  header .profile-email { margin-bottom: 0.5rem; }
+  header .theme-switcher { margin-top: 0.5rem; }
 }
