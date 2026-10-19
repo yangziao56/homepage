@@ -800,3 +800,24 @@ p small{
 .blog-post { overflow-wrap: anywhere; }
 .blog-post pre { overflow-x: auto; }
 .blog-back { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+
+/* Research and industry experience: readable career entries. */
+.experience-list { margin: 0.5rem 0 2rem; }
+.experience-item { position: relative; padding: 0 0 1.6rem 1.5rem; margin: 0; border-left: 1px solid var(--border-strong); }
+.experience-item:last-child { padding-bottom: 0.25rem; }
+.experience-item::before { content: ""; position: absolute; left: -5px; top: 0.6rem; width: 9px; height: 9px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px var(--bg); }
+.experience-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 0.35rem 1.2rem; }
+.experience-heading > div { min-width: 0; }
+.experience-heading h3 { margin: 0; padding: 0; font-size: 1.2rem; line-height: 1.35; border: 0; }
+.experience-role { margin: 0.3rem 0 0; font-family: var(--font-sans); font-size: 0.88rem; font-weight: 600; line-height: 1.5; color: var(--text); }
+.experience-date { flex-shrink: 0; margin: 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.78rem; line-height: 1.5; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.experience-meta { margin: 0.25rem 0 0.6rem; color: var(--muted); font-family: var(--font-sans); font-size: 0.8rem; line-height: 1.55; }
+.experience-highlights { margin: 0; padding-left: 1.05rem; font-size: 1rem; line-height: 1.6; }
+.experience-highlights li { padding-left: 0.1rem; margin: 0.3rem 0; }
+.experience-highlights li::marker { color: var(--muted); }
+@media (max-width: 640px) {
+  .experience-item { padding-left: 1.1rem; padding-bottom: 1.5rem; }
+  .experience-heading { display: block; }
+  .experience-date { margin-top: 0.3rem; }
+  .experience-heading h3 { font-size: 1.12rem; }
+}
