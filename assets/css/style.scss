@@ -803,22 +803,22 @@ p small{
 
 /* Research and industry experience: compact, logo-led entries. */
 .experience-list { margin: 0.5rem 0 2rem; }
-.experience-item { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 1.1rem; padding: 1.2rem 0; margin: 0; border-left: 0; border-bottom: 1px solid var(--border); }
+.experience-item { display: grid; grid-template-columns: 48px minmax(0, 1fr); gap: 1.1rem; padding: 0.95rem 0; margin: 0; border-left: 0; border-bottom: 1px solid var(--border); }
 .experience-item::before { display: none; }
 .experience-item:first-child { padding-top: 0.4rem; }
 .experience-item:last-child { border-bottom: 0; padding-bottom: 0.4rem; }
-.experience-logo { width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 1px solid var(--border); border-radius: 7px; background: #fff; }
+.experience-logo { width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 1px solid var(--border); border-radius: 7px; background: #fff; }
 .experience-logo img { display: block; width: 100%; height: 100%; object-fit: contain; }
 .experience-logo img[src*="adobe"] { padding: 10px; }
 .experience-body { min-width: 0; }
 .experience-heading { display: flex; justify-content: space-between; align-items: baseline; gap: 0.35rem 1rem; }
 .experience-heading > div { min-width: 0; }
-.experience-heading h3 { margin: 0; padding: 0; font-size: 1.2rem; line-height: 1.35; border: 0; }
-.experience-role { margin: 0.3rem 0 0; font-family: var(--font-sans); font-size: 0.88rem; font-weight: 600; line-height: 1.5; color: var(--text); }
+.experience-heading h3 { margin: 0; padding: 0; font-size: 1.125rem; line-height: 1.35; border: 0; }
+.experience-role { margin: 0.3rem 0 0; font-family: var(--font-sans); font-size: 0.88rem; font-weight: 400; line-height: 1.5; color: var(--text); }
 .experience-date { flex-shrink: 0; margin: 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.875rem; line-height: 1.5; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .experience-meta { margin: 0.25rem 0 0; color: var(--muted); font-family: var(--font-sans); font-size: 0.875rem; line-height: 1.55; }
 @media (max-width: 640px) {
-  .experience-item { grid-template-columns: 48px minmax(0, 1fr); gap: 0.8rem; padding: 1rem 0; }
+  .experience-item { grid-template-columns: 48px minmax(0, 1fr); gap: 0.8rem; padding: 0.8rem 0; }
   .experience-logo { width: 48px; height: 48px; }
   .experience-heading { display: block; }
   .experience-date { margin-top: 0.3rem; }
