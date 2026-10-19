@@ -72,7 +72,7 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
 - **[Aug 2022]** Our team placed in the **top 1%** of the **Tianchi Big Data Competition**: [AI Helps Strong Convection Weather Forecast](https://tianchi.aliyun.com/competition/entrance/531962/rankingList).
 {: .news-list}
 
-## Publications
+## Selected Publications
 
 - **Revisit, Extend, and Enhance Hessian-Free Influence Functions**
   <br>
