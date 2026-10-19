@@ -11,75 +11,47 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
 
 <div class="experience-list">
 <article class="experience-item">
-  <div class="experience-heading">
-    <div><h3>Adobe Research</h3><p class="experience-role">Research Scientist Intern</p></div>
-    <p class="experience-date">May 2026 – Aug 2026</p>
+  <div class="experience-logo"><img src="{{ '/assets/img/organizations/adobe.png' | relative_url }}" alt="Adobe logo" width="64" height="64" loading="lazy"></div>
+  <div class="experience-body">
+    <div class="experience-heading">
+      <div><h3>Adobe Research</h3><p class="experience-role">Research Scientist Intern</p></div>
+      <p class="experience-date">May 2026 – Aug 2026</p>
+    </div>
+    <p class="experience-meta">Seattle, WA</p>
   </div>
-  <p class="experience-meta">Seattle, WA · Mentor: Dr. Vlad Morariu</p>
-  <ul class="experience-highlights">
-    <li>Worked on faster HTML generation in Adobe’s Project Avalon agentic pipeline, replacing selected Claude Sonnet calls with locally served LLMs.</li>
-    <li>Developed task decomposition and parallel generation methods, and an end-to-end distillation pipeline from a 480B teacher to 8B student LLMs.</li>
-  </ul>
 </article>
 
 <article class="experience-item">
-  <div class="experience-heading">
-    <div><h3>Google Tunix Research Collaboration</h3><p class="experience-role">Academic Research Collaborator</p></div>
-    <p class="experience-date">Sep 2025 – May 2026</p>
+  <div class="experience-logo"><img src="{{ '/assets/img/organizations/adobe.png' | relative_url }}" alt="Adobe logo" width="64" height="64" loading="lazy"></div>
+  <div class="experience-body">
+    <div class="experience-heading">
+      <div><h3>Adobe</h3><p class="experience-role">Machine Learning Engineer Intern</p></div>
+      <p class="experience-date">May 2025 – Aug 2025</p>
+    </div>
+    <p class="experience-meta">San Jose, CA</p>
   </div>
-  <p class="experience-meta">Remote · Academic research collaboration</p>
-  <ul class="experience-highlights">
-    <li>Researched data-centric LLM post-training on TPUs, using self-influence and outlier-based methods to filter low-signal samples in GRPO and DPO.</li>
-    <li>Implemented DeepScaleR math-reasoning post-training and AIME 2024 evaluation on multi-host TPUs.</li>
-  </ul>
 </article>
 
 <article class="experience-item">
-  <div class="experience-heading">
-    <div><h3>Adobe</h3><p class="experience-role">Machine Learning Engineer Intern</p></div>
-    <p class="experience-date">May 2025 – Aug 2025</p>
+  <div class="experience-logo"><img src="{{ '/assets/img/organizations/yc-china.ico' | relative_url }}" alt="Y Combinator China logo" width="64" height="64" loading="lazy"></div>
+  <div class="experience-body">
+    <div class="experience-heading">
+      <div><h3>Y Combinator China</h3><p class="experience-role">Intern</p></div>
+      <p class="experience-date">Mar 2023 – Jul 2023</p>
+    </div>
+    <p class="experience-meta">Beijing, China</p>
   </div>
-  <p class="experience-meta">San Jose, CA · Mentor: Dr. Lei Zhang</p>
-  <ul class="experience-highlights">
-    <li>Developed controllable headline and email generation for Adobe GenStudio for Performance Marketing, with multi-persona generation and evaluation.</li>
-    <li>Trained a reward model and applied PPO for brand-aligned generation; first-author paper accepted to EMNLP 2026 Main Conference.</li>
-  </ul>
 </article>
 
 <article class="experience-item">
-  <div class="experience-heading">
-    <div><h3>Y Combinator China</h3><p class="experience-role">Intern</p></div>
-    <p class="experience-date">Mar 2023 – Jul 2023</p>
+  <div class="experience-logo"><img src="{{ '/assets/img/organizations/idea.png' | relative_url }}" alt="International Digital Economy Academy (IDEA) logo" width="64" height="64" loading="lazy"></div>
+  <div class="experience-body">
+    <div class="experience-heading">
+      <div><h3>International Digital Economy Academy (IDEA)</h3><p class="experience-role">Research Scientist Intern</p></div>
+      <p class="experience-date">Mar 2022 – Jul 2022</p>
+    </div>
+    <p class="experience-meta">Shenzhen, China</p>
   </div>
-  <p class="experience-meta">Beijing, China · Mentor: Dr. Qi Lu</p>
-  <ul class="experience-highlights">
-    <li>Conducted AI industry research and startup scouting, synthesizing technical and market insights for leadership.</li>
-    <li>Prepared presentations and financing materials for Dr. Qi Lu, including “My Foundation Model Worldview.”</li>
-  </ul>
-</article>
-
-<article class="experience-item">
-  <div class="experience-heading">
-    <div><h3>International Digital Economy Academy (IDEA)</h3><p class="experience-role">Research Scientist Intern</p></div>
-    <p class="experience-date">Mar 2022 – Jul 2022</p>
-  </div>
-  <p class="experience-meta">Shenzhen, China · Mentor: Dr. Jiaxing Zhang</p>
-  <ul class="experience-highlights">
-    <li>Contributed to Fengshenbang-LM; pre-trained BERT (1.3B) and GPT-2 (3.5B) models from scratch.</li>
-    <li>Built datasets of 27 million labeled examples and performed multi-task supervised continued pre-training using MAML and Reptile.</li>
-  </ul>
-</article>
-
-<article class="experience-item">
-  <div class="experience-heading">
-    <div><h3>Sun Yat-Sen University</h3><p class="experience-role">Research Assistant</p></div>
-    <p class="experience-date">2020 – 2022</p>
-  </div>
-  <p class="experience-meta">Guangzhou, China · Mentor: Dr. Qifeng Lin</p>
-  <ul class="experience-highlights">
-    <li>Researched Transformer-based video prediction and spatiotemporal forecasting.</li>
-    <li>Developed TCTN and extended it to PTCT for radar-echo forecasting and precipitation nowcasting.</li>
-  </ul>
 </article>
 </div>
 
