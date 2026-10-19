@@ -80,7 +80,7 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
   <br>
   *Transactions on Machine Learning Research (TMLR), 2026*
   <br>
-  [Paper](https://openreview.net/forum?id=ijL2681Tau) [PDF](https://arxiv.org/pdf/2405.17490.pdf)
+  [PDF](https://arxiv.org/pdf/2405.17490.pdf)
 
 - **Recontextualizing Famous Quotes for Brand Slogan Generation**
   <br>
