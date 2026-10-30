@@ -88,7 +88,7 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
   <br>
   *EMNLP 2026 Main Conference*
   <br>
-  [PDF](https://arxiv.org/pdf/2602.06049.pdf)
+  [PDF](https://arxiv.org/pdf/2602.06049.pdf) [Code](https://github.com/yangziao56/qwen-lora-finetune)
 
 - **Not All Rollouts Are Worth Learning: On Trajectory Valuation for Post-Training Reinforcement Learning**
   <br>
