@@ -80,7 +80,7 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
   <br>
   *Transactions on Machine Learning Research (TMLR), 2026*
   <br>
-  [PDF](https://arxiv.org/pdf/2405.17490.pdf)
+  [PDF](https://arxiv.org/pdf/2405.17490.pdf) [Code](https://github.com/yangziao56/Inner_Product_Ensemble)
 
 - **Recontextualizing Famous Quotes for Brand Slogan Generation**
   <br>
@@ -90,6 +90,15 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
   <br>
   [PDF](https://arxiv.org/pdf/2602.06049.pdf)
 
+- **Not All Rollouts Are Worth Learning: On Trajectory Valuation for Post-Training Reinforcement Learning**
+  <br>
+  Xuesong Jia<sup>&#42;</sup>, **Ziao Yang**<sup>&#42;</sup>, Zhanhe Huang, Hongfu Liu
+  <br>
+  <em>Submitted to ICLR, 2027; arXiv preprint, 2026.</em><br>
+  <small>*Equal contribution.</small>
+  <br>
+  [PDF](https://arxiv.org/pdf/2609.35072) [Code](https://github.com/yangziao56/tunix/tree/my-changes)
+
 - **Layer-Aware Influence for Online Data Valuation Estimation**
   <br>
   **Ziao Yang**, Longbo Huang, Hongfu Liu
@@ -97,6 +106,7 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
   *Submitted to TPAMI, 2026*
   <br>
   [PDF](https://arxiv.org/pdf/2510.16007.pdf)
+  [Code](https://github.com/yangziao56/Layer-Aware-Influence)
 
 - **On the Inflation of KNN-Shapley Value**
   <br>
@@ -104,7 +114,7 @@ I am a final-year Ph.D. candidate in Computer Science at Brandeis University, ad
   <br>
   *Submitted to DMLR, 2026*
   <br>
-  [PDF](https://arxiv.org/pdf/2405.17489.pdf)
+  [PDF](https://arxiv.org/pdf/2405.17489.pdf) [Code](https://github.com/yangziao56/Inflation_KNN-SV)
 
 - **Validation-Induced Shapley Shifts: How Validation Structure Distorts Data Valuation**
   <br>
